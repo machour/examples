@@ -1,4 +1,7 @@
 {
+  "description": "In this example we will setup Chakra UI with Remix.",
+  "keywords": ["?"],
+
   "private": true,
   "sideEffects": false,
   "scripts": {

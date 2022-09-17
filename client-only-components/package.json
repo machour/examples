@@ -1,4 +1,6 @@
 {
+  "description": "An example that shows how to render client-only components.",
+  "keywords": ["?"],
   "private": true,
   "sideEffects": false,
   "scripts": {

@@ -1,4 +1,6 @@
 {
+  "description": "This is a very basic example of a simple Remix app using the Remix App Server.",
+  "keywords": ["basic"],
   "private": true,
   "sideEffects": false,
   "scripts": {

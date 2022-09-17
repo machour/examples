@@ -1,4 +1,8 @@
 {
+  "name": "collected-notes",
+  "displayName": "Collected Notes",
+  "description": "An example that shows how to use the Collected Notes cms with Remix.",
+  "keywords": ["cms"],
   "private": true,
   "sideEffects": false,
   "scripts": {

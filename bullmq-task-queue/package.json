@@ -1,4 +1,6 @@
 {
+  "description": "An example of how to setup bullmq with Remix",
+  "keywords": ["?"],
   "private": true,
   "sideEffects": false,
   "scripts": {

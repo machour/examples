@@ -1,4 +1,6 @@
 {
+  "description": "An example that shows how to use the browser validation on form inputs.",
+  "keywords": ["?"],
   "private": true,
   "sideEffects": false,
   "scripts": {
